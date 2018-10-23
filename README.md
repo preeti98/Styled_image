@@ -30,7 +30,7 @@ Download the [Pre-trained VGG network](Pretrained_Model_LICENSE.txt) and place i
 
 ## Running the tests
 
-Replace the [images/image.py](images/image.py) and [images/style.py](images/style.py) by your desired content image and styling image respectively.
+Replace the [images/image.jpg](images/image.jpg) and [images/style.jpg](images/style.jpg) by your desired content image and styling image respectively.
 
 Run the notebook and get started!:)
 
